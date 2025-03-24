@@ -1,0 +1,6 @@
+@SugaApp.Api_HostAddress = http://localhost:5271
+
+GET {{SugaApp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
